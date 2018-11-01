@@ -1,0 +1,15 @@
+{
+  "name": "lsbar",
+  "version": "1.0.0",
+  "description": "",
+  "main": "./lib/lsbar.js",
+  "bin": {
+      "lsbar": "./bin/index.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "colors": "^1.3.2"
+  }
+}
